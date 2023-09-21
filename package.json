@@ -1,0 +1,14 @@
+{
+  "name": "api-params-checker",
+  "version": "1.0.0",
+  "description": "a simple toolkit to check and sanitize api-json params contracts.",
+  "scripts": {
+    "test": "jest ./tests"
+  },
+  "author": "idochetrit.dev@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "prettier": "^3.0.3"
+  }
+}
